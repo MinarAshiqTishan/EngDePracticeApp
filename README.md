@@ -9,3 +9,8 @@
  6. let user decide on difficulty.
  7. make the user choice persistent
  8. make the user result of practice persistent and queriable
+
+
+## Architecture
+
+![Alt text](doc/arch.png)
