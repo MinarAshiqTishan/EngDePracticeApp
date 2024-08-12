@@ -13,4 +13,4 @@
 
 ## Architecture
 
-![Alt text](doc/arch.png)
+See doc
